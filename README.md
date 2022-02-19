@@ -1,10 +1,7 @@
 - 👋 Hi, I'm Elaine (or @thisiselaine)!
-- 👀 I’m interested in anything computer-related. 
-Computer networks, cybersecurity, software development, GIS, etc.
-But I'm also interdisciplinary and hope to learn more about civil and mechanical engineering.
-- 🌱 I’m currently studying computer science at the George Washington University, class of '25. 
+- 🌱 I’m currently studying computer science at the George Washington University.
 In my free time, I love reading and writing, going on runs, and playing and creating music.
-- 💞️ I’m looking to collaborate on any fun projects you may have. I'm all for learning!
+- 💞️ I’m looking to collaborate on any fun projects you may have - just reach out to me!
 - 📫 You can contact me at elainely@gwu.edu.
 
 <!---
