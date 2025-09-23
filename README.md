@@ -1,4 +1,2 @@
-- 👋 Hi, I'm Elaine (or @thisiselaine)!
-- 🌱 In my free time, I love reading and writing, improving my calisthenics, and playing board games with friends.
-- 💞️ I’m looking to collaborate on any fun projects you may have - just reach out to me!
-- 📫 You can contact me at elainely@gwu.edu.
+[My profile
+](http://thisiselaine.github.io/)
